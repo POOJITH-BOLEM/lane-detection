@@ -78,7 +78,7 @@ Running the Project
 bash
 python main.py
 
-(Update the above section with your actual setup and run instructions.)
+(Update the above section with your actual setup and run instructions.) 
 
 📈 Future Work
 Improve real-time FPS performance for embedded deployment
